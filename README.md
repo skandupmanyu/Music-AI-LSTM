@@ -1,5 +1,6 @@
 # Music-AI-LSTM
 Artificial Intelligence for Music Generation, Columbia University
+
 ![](https://i.ibb.co/4gSYWMB/Music-AI-Final-Report-page-001.jpg)
 ![](https://i.ibb.co/TYQJ9xN/Music-AI-Final-Report-page-002.jpg)
 ![](https://i.ibb.co/FDgmd2D/Music-AI-Final-Report-page-003.jpg)

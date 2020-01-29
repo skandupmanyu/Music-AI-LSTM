@@ -13,7 +13,7 @@ Artificial Intelligence for Music Generation, Columbia University
 
 ![](https://i.ibb.co/YWgk8HX/Music-AI-Final-Report-page-006.jpg)
 
-![](https://i.ibb.co/YtDVJJ6/Music-AI-Final-Report-page-007.jpg)
+![](https://i.ibb.co/YWgk8HX/Music-AI-Final-Report-page-006.jpg)
 
 ![](https://i.ibb.co/2n5z3qX/Music-AI-Final-Report-page-008.jpg)
 
